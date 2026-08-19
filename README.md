@@ -65,6 +65,6 @@ Os bugs relacionados ao desaparecimento de itens no Banco de Dados (BUG-003, BUG
 
 ---
 
-**Autor(a):** [Camima Melaine]
+**Autor(a):** [Camila Melaine]
 **Data do teste:** [18/08/2026]
 
